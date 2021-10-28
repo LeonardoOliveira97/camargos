@@ -1,0 +1,14 @@
+div img{
+    width: 35%;
+    max-width: 1024px;
+}
+
+li > img{
+    width: 100%;
+}
+
+div img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+li > a{
+    text-align: center;
+    margin-right: 4px;
+    color: #261414;
+    text-decoration: none;
+}
+
+li > a:hover{
+    background-color: #F2B4AE;
+    border-radius: 5px;
+    transition-duration: .3s;
+}
+
+.geral{
+    background-color: #cc7e77;
+}
+
+main  img{
+    width: 55%;
+}

@@ -15,7 +15,7 @@ body{
 
 header {
     background-color: #F2A099;
-    border-radius: 7px 0px 0px 0px;
+    border-radius: 7px 7px 0px 0px;
     padding: 3px;
     
 }
@@ -104,3 +104,6 @@ footer{
     background-color: #cc7e77;
     border-radius: 0px 0px 9px 9px;
 }
+
+
+

@@ -1,0 +1,17 @@
+div img{
+    width:40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.decorada{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li img{
+    width: 100%;
+}
+
